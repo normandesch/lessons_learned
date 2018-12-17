@@ -1,7 +1,9 @@
-Things I have Learned at Bloc.io
-
-1.HTML
-2.CSS
-3.Terminal
-4.Git Hub
-5.Bootstrap
+<h1>Things I have Learned at Bloc.io</h1>
+<ol>
+<li>HTML</li>
+<li>CSS</li>
+<li>Terminal</li>
+<li>Git Hub</li>
+<li>Bootstrap</li>
+  </ol>
+  
